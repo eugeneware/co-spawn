@@ -1,6 +1,6 @@
 # co-spawn
 
-setImmediate for the co generator framework
+setImmediate for the [co](https://github.com/visionmedia/co) generator framework
 
 [![build status](https://secure.travis-ci.org/eugeneware/co-spawn.png)](http://travis-ci.org/eugeneware/co-spawn)
 
