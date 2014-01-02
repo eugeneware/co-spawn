@@ -1,0 +1,37 @@
+{
+  "name": "co-spawn",
+  "version": "0.0.1",
+  "description": "setImmediate for the co generator framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugeneware/co-spawn"
+  },
+  "keywords": [
+    "co",
+    "setImmediate",
+    "spawn",
+    "concurrent",
+    "concurrency",
+    "setTimeout",
+    "nextTick",
+    "process.nextTick"
+  ],
+  "author": "Eugene Ware <eugene@noblesamurai.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/eugeneware/co-spawn/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "co": "3.x"
+  },
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.16.2",
+    "co": "3.x"
+  }
+}
